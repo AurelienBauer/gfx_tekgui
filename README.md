@@ -1,2 +1,3 @@
 # gfx_tekgui
-An Epitech projet.
+An Epitech projet.  
+Dépendant de la lib "lapin"
