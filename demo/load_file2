@@ -1,0 +1,11 @@
+=================================================================================================
+#remember:		Usage:									#
+#b = button		b=px,py,width,height,background_color,text,appel_fonction		#
+#c = check_box		c=px,py,width,height,background_color,0 or 1				#
+#t = text_box		t=px,py,width,height,background_color,text				#
+=================================================================================================
+RAM=15;
+b=100,100,200,50,10000000,exit,test
+c=0,100,20,20,9999999,0
+t=100,300,300,300,1111111,text
+
